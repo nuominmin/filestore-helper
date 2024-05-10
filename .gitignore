@@ -1,0 +1,3 @@
+*.exe
+.idea/
+filestore_test.go
